@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Api Comparision Tool",
+			"path": "../.."
+		},
+		{
+			"name": "Api Comparison 2.0",
+			"path": "../../../Api Comparison 2.0"
+		}
+	],
+	"settings": {}
+}
